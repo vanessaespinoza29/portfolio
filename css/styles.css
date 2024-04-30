@@ -121,12 +121,9 @@ nav a:hover {
     .round-image {
       border-radius: 10px;
       overflow: hidden;
-<<<<<<< HEAD
       display: flex;
       align-items: center;
       justify-content: center;
-=======
->>>>>>> a1b3436eea329f755246b4e92778b8f4039171c9
     }
   }
 }
